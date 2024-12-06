@@ -1,0 +1,15 @@
+body{
+    background: #273755;
+}
+
+*{
+    color: #fff;
+}
+
+#update{
+    display: none;
+}
+
+span{
+    color: rgb(30, 150, 206);
+}
